@@ -14,7 +14,7 @@
 # cipher by 4.  To decipher that text with this script, run the following
 # command:
 #
-# ./caesar.py 2 -:4 "Hilpo, aovlh"
+# ./caesar.py 2 -4 "Hilpo, aovlh"
 #
 # That means encipher every other character, and shift back 4, and produces the
 # text "Hello, world"
